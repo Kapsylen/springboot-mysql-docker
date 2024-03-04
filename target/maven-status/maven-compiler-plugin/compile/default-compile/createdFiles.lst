@@ -1,0 +1,5 @@
+com/example/demo/repository/PersonRepository.class
+com/example/demo/model/Persons.class
+com/example/demo/service/PersonService.class
+com/example/demo/BasicApplication.class
+com/example/demo/controller/BasicController.class
